@@ -1,5 +1,5 @@
 {
-    "dl": "http://localhost:3000/api/v1/crates/{crate}/{version}/download",
-    "api": "http://localhost:3000",
+    "dl": "https://alexandrie.belo.dev/api/v1/crates/{crate}/{version}/download",
+    "api": "https://alexandrie.belo.dev",
     "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://github.com/ThangDoan2905/registry-test"]
 }
